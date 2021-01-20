@@ -1,1 +1,1 @@
-# Discord-nordic
+# Discord nordic theme but for Powercord
