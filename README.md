@@ -6,4 +6,4 @@ This theme was made by [orblazer](https://github.com/orblazer/)
 
 ## Preview
 
-![preview](./https://cdn.discordapp.com/attachments/799401301673902090/801556425989947392/Screenshot_67.png)
+![preview](https://cdn.discordapp.com/attachments/799401301673902090/801556425989947392/Screenshot_67.png)
