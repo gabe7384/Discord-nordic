@@ -8,4 +8,4 @@ This theme was made by [orblazer](https://github.com/orblazer/)
 
 ## Preview
 
-![preview](https://cdn.discordapp.com/attachments/799401301673902090/802396350627971133/Screenshot_109.png)
+![preview](https://cdn.discordapp.com/attachments/799401301673902090/802396559501164544/Screenshot_109.png)
