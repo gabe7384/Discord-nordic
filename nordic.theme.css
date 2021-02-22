@@ -74,6 +74,11 @@
   --category-fade-background-hover: rgba(143, 188, 187, 0.95);
 }
 
+::selection {
+  color: #d8dee9;
+  background: #7da8a8;
+}
+
 .theme-dark {
   --header-primary: var(--nord-light3);
   --header-secondary: #a6b0bf;
