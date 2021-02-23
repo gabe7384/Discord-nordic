@@ -328,7 +328,10 @@
   background-clip: text;
   background-size: 400% 400%;
 }
-
+::selection {
+  color: #d8dee9;
+  background: #7da8a8;
+}
 #app-mount .winButton-iRh8-Z {
   background: transparent;
 }
